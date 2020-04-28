@@ -3,7 +3,8 @@
 - คลิปที่ 1
 
 - คลิปที่ 2
-
+เป็นคลิปยกตัวอย่างการทำงานของ CPU ในภาษา MIPS(million instructions per second)
+https://youtu.be/8yq_oa1HVa0
 - คลิปที่ 3
 
 - คลิปที่ 4
