@@ -42,6 +42,9 @@ Address ถัดไปของคำสั่งถัดไป
 -https://youtu.be/X2lB1ZSHdHE
 - คลิปที่ 6
 เป็นคลิปอธิบาย R type
+
+![รูปที่2](r-typeCN210.gif)
+
 พวก R-type Instruction, จะทำการอ่าน2 Register นำมาทำ ALU Operationแล้วเก็บค่าที่ได้ใน
 Register 
 ขั้นตอนการทำงานของR-Type Instruction Set
