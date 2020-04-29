@@ -4,6 +4,7 @@
 
 - คลิปที่ 2
 เป็นคลิปยกตัวอย่างการทำงานของ CPU ในภาษา MIPS(million instructions per second)
+
 -https://youtu.be/8yq_oa1HVa0
 - คลิปที่ 3
 เป็นคลิปอธิบายความแตกต่างระหว่าง Single Cycle กับ Multi Cycle
