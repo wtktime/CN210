@@ -39,7 +39,7 @@ Address ถัดไปของคำสั่งถัดไป
 - คลิปที่ 5
 เป็นคลิปอธิบายคำสั่ง beq(branch equal)
 
-![รูปที่3]branchCN210.gif)
+![รูปที่3](branchCN210.gif)
 
 ถ้า Condition เป็นจริง, Address ของคำสั่งถัดไปจะเป็นค่าPC ใหม่
 ขั้นตอนการทำงานของBranch Instruction Set ( beq $x,$y,offset )
