@@ -39,6 +39,17 @@ Address ถัดไปของคำสั่งถัดไป
 - คลิปที่ 5
 เป็นคลิปอธิบายคำสั่ง beq(branch equal)
 
+![รูปที่3]branchCN210.gif)
+
+ถ้า Condition เป็นจริง, Address ของคำสั่งถัดไปจะเป็นค่าPC ใหม่
+ขั้นตอนการทำงานของBranch Instruction Set ( beq $x,$y,offset )
+1. คำสั่งจะถูกFetch จาก Memory และ จะเพิ่มค่าPC (program counter) เพื่อไปชี้
+Address ถัดไปของคำสั่งถัดไป
+2. Register ทั้ง 2, $x และ $yจะถูกอ่านเข้ามา
+3. ALU จะทำการลบ (Substract)ที่อ่านเข้ามา
+นำค่าที่ PC+4 ไปบวกกับค่าOffset (16 bit) ได้ผลลัพธ์เป็น"Branch target Address"
+4. ขา zero ที่ออกจากALU ถูกใช้ในการตัดสินใจ
+
 -https://youtu.be/X2lB1ZSHdHE
 - คลิปที่ 6
 เป็นคลิปอธิบาย R type
