@@ -23,6 +23,7 @@
 -https://www.youtube.com/watch?v=FVBvfoPVggo&feature=share
 - คลิปที่ 4
 เป็นคลิปอธิบายคำสั่ง lw(load word)
+(lwCN210.gif)
 ขั้นตอนการทำงานของLoad word ( lw rt,offset(rs) )
 1. คำสั่งจะถูกFetch จาก Memory และ จะเพิ่มค่าPC (program counter) เพื่อไปชี้
 Address ถัดไปของคำสั่งถัดไป
