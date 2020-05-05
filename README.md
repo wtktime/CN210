@@ -65,6 +65,7 @@ Address ถัดไปของคำสั่งถัดไป
 2. Register 2 ตัว จะถูกอ่าน, ตัว Main Control Unit จะ set controlline
 3. ALU operate data ที่เข้ามาโดยใช้ Function Code(bits 5-0) ของคำสั่งในการเลือกใช้ALU Function
 4. เขียนผลลัพธ์ที่ได้ลงในRegister (bits 15-11)
+
 [<br>**Clip-6**](https://youtu.be/MKwHdwCq7HY)
 
 - คลิปที่ 7
